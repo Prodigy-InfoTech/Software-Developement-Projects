@@ -49,5 +49,3 @@ These instructions will help you set up a copy of the project on your local mach
 - **View Forecast**
 
   The weather forecast will be displayed below the current weather information. Each day will show the expected high and low temperatures, along with a brief description of the weather.
-
-Happy coding! 🌦
