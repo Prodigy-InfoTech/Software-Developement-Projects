@@ -11,8 +11,8 @@ Text editor application was created using python programming language. It allows
 ---
 
 ## Demo
-![Screenshot (205)](https://ik.imagekit.io/qmffpfng5/Screenshot%20(25).png)
-![Screenshot (205)](https://ik.imagekit.io/qmffpfng5/Screenshot%20(26).png)
+![Screenshot (205)](./Screenshot25.png)
+![Screenshot (205)](./Screenshot26.png)
 
 
 
