@@ -10,13 +10,13 @@ File downloader is a tool that allows the user's download the files from the int
 
 ---
 
-## Demo
-![Screenshot (205)](./images/Screenshot1.png)
-![Screenshot (205)](./images/Screenshot2.png)
-![Screenshot (205)](./images/Screenshot3.png)
-![Screenshot (205)](./images/Screenshot4.png)
-![Screenshot (205)](./images/Screenshot5.png)
 
+## Demo
+![Home Page](images/Screenshot1.png)
+![Image Downloader](images/Screenshot2.png)
+![PDF Downloader](images/Screenshot3.png)
+![Webpage Downloader](images/Screenshot4.png)
+![YouTube Downloader](images/Screenshot5.png)
 
 
 ## Features
