@@ -12,10 +12,10 @@ Movie Ticket Manager is a simple console-based application written in Java that 
 
 ## Demo
 
-<img src="Movie Ticket Manager\1.png" alt="1"/>
-<img src="Movie Ticket Manager\2.png" alt="2"/>
-<img src="Movie Ticket Manager\3.png" alt="3"/>
-<img src="Movie Ticket Manager\4.png" alt="4"/>
+<img src="https://github.com/EshaalakshmiDS/Software-Developement-Projects/blob/main/Movie%20Ticket%20Manager/1.png" alt="1"/>
+<img src="https://github.com/EshaalakshmiDS/Software-Developement-Projects/blob/main/Movie%20Ticket%20Manager/2.png" alt="2"/>
+<img src="https://github.com/EshaalakshmiDS/Software-Developement-Projects/blob/main/Movie%20Ticket%20Manager/3.png" alt="3"/>
+<img src="https://github.com/EshaalakshmiDS/Software-Developement-Projects/blob/main/Movie%20Ticket%20Manager/4.png" alt="4"/>
 
 
 ## Features
